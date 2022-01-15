@@ -1,0 +1,48 @@
+{
+	"storyName": "Vs. Bob and Bosip",
+	"hideFreeplay": false,
+	"weekBackground": "bobandbosip",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Jump-in",
+			"BABbob",
+			[
+				0,
+				113,
+				253
+			]
+		],
+		[
+			"Swing",
+			"bosip",
+			[
+				0,
+				113,
+				253
+			]
+		],
+		[
+			"Split",
+			"amor",
+			[
+				0,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"bobs",
+		"",
+		"bosip"
+	],
+	"weekName": "Vs Bob and Bosip"
+}
